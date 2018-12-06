@@ -1,7 +1,7 @@
 /*COSC 1410, Assignment 1
 Thursday, September 04, 2014
 Write a program to make centimeter-to-inch/inch-to-centimeter conversion.
-Assume the user will always enter numbers
+Assume the user will always enter valid positive numbers
 */
 
 #include <iostream>
